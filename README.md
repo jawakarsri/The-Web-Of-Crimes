@@ -1,94 +1,134 @@
 
-A Web of Crimes 
+<div align="center">
 
-A dynamic, newspaper-style web application shedding light on the rising crime rates in India. This project blends data-driven insights with compelling narratives to deliver sharp commentary on critical societal issues—all presented in a visually engaging and interactive design.
+  <img src="https://github.com/user-attachments/assets/fb1ec5c0-f5ea-44e0-be85-8ea0b3db38bb" alt="logo" width="200" height="auto" />
+  <h1>A Web of Crimes</h1>
+  
+  <p>
+   A dynamic, newspaper-style web app shedding light on the rising crime rates in India. This project presents data-driven insights and sharp commentary on crucial issues, wrapped in an engaging and interactive design.
+  </p>
+  
+<!-- Badges -->
+<p>
+  <a href="https://github.com/jawakarsri/The-Web-Of-Crimes">
+    <img src="https://img.shields.io/github/contributors/jawakarsri/The-Web-Of-Crimes" alt="contributors" />
+  </a>
+  <a href="https://github.com/jawakarsri/The-Web-Of-Crimes">
+    <img src="https://img.shields.io/github/last-commit/jawakarsri/The-Web-Of-Crimes" alt="last update" />
+  </a>
+  <a href="https://github.com/jawakarsri/The-Web-Of-Crimes">
+    <img src="https://img.shields.io/github/forks/jawakarsri/The-Web-Of-Crimes" alt="forks" />
+  </a>
+  <a href="https://github.com/jawakarsri/The-Web-Of-Crimes">
+    <img src="https://img.shields.io/github/stars/jawakarsri/The-Web-Of-Crimes" alt="stars" />
+  </a>
+  <a href="https://github.com/jawakarsri/The-Web-Of-Crimes">
+    <img src="https://img.shields.io/github/issues/jawakarsri/The-Web-Of-Crimes" alt="open issues" />
+  </a>
+ 
+</p>
+   
+<h4>
+    <a href="https://">View Demo</a>
+  <span> · </span>
+    <a href="https://github.com/jawakarsri/The-Web-Of-Crimes">Documentation</a>
+  <span> · </span>
+    <a href="https://github.com/jawakarsri/The-Web-Of-Crimes/issues/">Report Bug</a>
+  <span> · </span>
+    <a href="https://github.com/jawakarsri/The-Web-Of-Crimes/issues/">Request Feature</a>
+  </h4>
+</div>
 
-Table of Contents
+<br />
 
-	•	About the Project
-	•	Features
-	•	Tech Stack
-	•	Getting Started
-	•	Prerequisites
-	•	Installation
-	•	Contributing
-	•	Contact
+---
 
-About the Project
+## Table of Contents
 
-Crime in India has been on the rise, and this application provides a unique way to visualize and understand the data. With its newspaper-inspired design, A Web of Crimes offers a compelling look into crime trends, critical issues, and the broader implications for society.
+- [About the Project](#about-the-project)
+  * [Screenshots](#screenshots)
+  * [Tech Stack](#tech-stack)
+  * [Features](#features)
+- [Getting Started](#getting-started)
+  * [Run Locally](#run-locally)
+- [Contributing](#contributing)
+- [Contact](#contact)
 
-Key Highlights:
+---
 
-	•	Newspaper-style user interface for an immersive experience.
-	•	Data-driven insights and analytics to understand crime trends.
-	•	Interactive visuals and animations powered by modern web technologies.
+## About the Project
 
-Features
+A Web of Crimes aims to uncover the growing trends of crime in India through an engaging newspaper-style interface. It seamlessly blends data visualization with modern web design to deliver an immersive experience.
 
-	•	📜 Newspaper-Style Layout: Mimics the classic look and feel of a traditional newspaper.
-	•	📊 Data Visualization: Presents crime statistics through interactive graphs and visuals.
-	•	🎨 Responsive Design: Fully responsive and optimized for both desktop and mobile devices.
-	•	⚡ Fast Performance: Built with optimized frameworks for high-speed performance.
+---
 
-Tech Stack
+### Screenshots
 
-This project leverages modern web technologies:
-	•	Frontend:
-	•	React.js
-	•	TypeScript
-	•	TailwindCSS
-	•	GSAP (GreenSock Animation Platform)
-	•	Build Tools:
-	•	Vite
-	•	Linting and Formatting:
-	•	ESLint
-	•	Prettier
+<div align="center"> 
+  <img src="https://github.com/user-attachments/assets/fb1ec5c0-f5ea-44e0-be85-8ea0b3db38bb" alt="screenshot" />
+</div>
 
-Getting Started
+---
 
-Follow these steps to run the project locally.
+### Tech Stack
 
-Prerequisites
+<details>
+  <summary>Client</summary>
+  <ul>
+        <li><a href="https://reactjs.org/">React.js</a></li>
+        <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
+        <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
+        <li><a href="https://greensock.com/">GSAP</a></li>
+  </ul>
+</details>
 
-Ensure you have the following installed:
-	•	Node.js (v16 or higher)
-	•	npm
+---
 
-Installation
+### Features
 
-	1.	Clone the repository:
+- Newspaper-style UI for immersive storytelling.
+- Visualizes crime data trends in an intuitive format.
+- Seamless animations powered by GSAP.
+- Fully responsive design for all devices.
 
-git clone https://github.com/jawakarsri/The-Web-Of-Crimes.git
+---
 
+## Getting Started
 
-	2.	Navigate to the project directory:
+### Run Locally
 
-cd The-Web-Of-Crimes
+Clone the project:
+```bash
+  git clone https://github.com/jawakarsri/The-Web-Of-Crimes.git
 
+Go to the project directory:
 
-	3.	Install dependencies:
+  cd The-Web-Of-Crimes
 
-npm install
+Install dependencies:
 
+  npm install
 
-	4.	Start the development server:
+Start the server:
 
-npm run dev
+  npm run dev
 
-
-	5.	Open your browser and visit:
+Visit in your browser:
 
 http://localhost:3000
 
 Contributing
 
-Contributions are always welcome! If you’d like to contribute, please fork the repository and submit a pull request. For major changes, open an issue to discuss what you’d like to change.
+<a href="https://github.com/jawakarsri/The-Web-Of-Crimes/contributors">
+  <img src="https://contrib.rocks/image?repo=jawakarsri/The-Web-Of-Crimes" />
+</a>
+
+
+Contributions are always welcome! Feel free to fork the repository and submit a pull request.
 
 Contact
 
-Feel free to reach out for collaboration or feedback:
+Feel free to reach out with feedback, suggestions, or collaboration opportunities:
 	•	📧 Email: jawaharsri2003@gmail.com
-	•	💼 LinkedIn: https://www.linkedin.com/in/jawakarsri/
+	•	💼 LinkedIn: https://www.linkedin.com/in/jawakarsri/ 
 
-Let me know if you’d like further refinements!
