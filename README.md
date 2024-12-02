@@ -1,143 +1,94 @@
 
-<div align="center">
+A Web of Crimes 
 
-  <img src="https://github.com/user-attachments/assets/fb1ec5c0-f5ea-44e0-be85-8ea0b3db38bb" alt="logo" width="200" height="auto" />
-  <h1>The Daily Crimes</h1>
-  
-  <p>
-   This is a newspaper UI website designed to give you the authentic feel of reading a traditional newspaper. Explore news stories in a classic layout, blending modern web design with old-world charm.
-  </p>
-  
-  
-<!-- Badges -->
-<p>
-  <a href="https://github.com/rinkitadhana/The-Daily-Crimes">
-    <img src="https://img.shields.io/github/contributors/rinkitadhana/The-Daily-Crimes" alt="contributors" />
-  </a>
-  <a href="https://github.com/rinkitadhana/The-Daily-Crimes">
-    <img src="https://img.shields.io/github/last-commit/rinkitadhana/The-Daily-Crimes" alt="last update" />
-  </a>
-  <a href="https://github.com/rinkitadhana/The-Daily-Crimes">
-    <img src="https://img.shields.io/github/forks/rinkitadhana/The-Daily-Crimes" alt="forks" />
-  </a>
-  <a href="https://github.com/rinkitadhana/The-Daily-Crimes">
-    <img src="https://img.shields.io/github/stars/rinkitadhana/The-Daily-Crimes" alt="stars" />
-  </a>
-  <a href="https://github.com/rinkitadhana/The-Daily-Crimes">
-    <img src="https://img.shields.io/github/issues/rinkitadhana/The-Daily-Crimes" alt="open issues" />
-  </a>
- 
-</p>
-   
-<h4>
-    <a href="https://thedailycrimes.vercel.app/">View Demo</a>
-  <span> · </span>
-    <a href="https://github.com/rinkitadhana/The-Daily-Crimes">Documentation</a>
-  <span> · </span>
-    <a href="https://github.com/rinkitadhana/The-Daily-Crimes/issues/">Report Bug</a>
-  <span> · </span>
-    <a href="https://github.com/rinkitadhana/The-Daily-Crimes/issues/">Request Feature</a>
-  </h4>
-</div>
+A dynamic, newspaper-style web application shedding light on the rising crime rates in India. This project blends data-driven insights with compelling narratives to deliver sharp commentary on critical societal issues—all presented in a visually engaging and interactive design.
 
-<br />
+Table of Contents
 
-<!-- Table of Contents -->
-#  Table of Contents
+	•	About the Project
+	•	Features
+	•	Tech Stack
+	•	Getting Started
+	•	Prerequisites
+	•	Installation
+	•	Contributing
+	•	Contact
 
-- [About the Project](#about-the-project)
-  * [Screenshots](#screenshots)
-  * [Tech Stack](#tech-stack)
-  * [Features](#features)
-- [Getting Started](#getting-started)
-  * [Run Locally](#run-locally)
-- [Contributing](#contributing)
-- [Contact](#contact)
+About the Project
 
-  
+Crime in India has been on the rise, and this application provides a unique way to visualize and understand the data. With its newspaper-inspired design, A Web of Crimes offers a compelling look into crime trends, critical issues, and the broader implications for society.
 
-<!-- About the Project -->
-##  About the Project
+Key Highlights:
 
+	•	Newspaper-style user interface for an immersive experience.
+	•	Data-driven insights and analytics to understand crime trends.
+	•	Interactive visuals and animations powered by modern web technologies.
 
-<!-- Screenshots -->
-###  Screenshots
+Features
 
-<div align="center"> 
-  <img src="https://github.com/user-attachments/assets/fb1ec5c0-f5ea-44e0-be85-8ea0b3db38bb" alt="screenshot" />
-</div>
+	•	📜 Newspaper-Style Layout: Mimics the classic look and feel of a traditional newspaper.
+	•	📊 Data Visualization: Presents crime statistics through interactive graphs and visuals.
+	•	🎨 Responsive Design: Fully responsive and optimized for both desktop and mobile devices.
+	•	⚡ Fast Performance: Built with optimized frameworks for high-speed performance.
+
+Tech Stack
+
+This project leverages modern web technologies:
+	•	Frontend:
+	•	React.js
+	•	TypeScript
+	•	TailwindCSS
+	•	GSAP (GreenSock Animation Platform)
+	•	Build Tools:
+	•	Vite
+	•	Linting and Formatting:
+	•	ESLint
+	•	Prettier
+
+Getting Started
+
+Follow these steps to run the project locally.
+
+Prerequisites
+
+Ensure you have the following installed:
+	•	Node.js (v16 or higher)
+	•	npm
+
+Installation
+
+	1.	Clone the repository:
+
+git clone https://github.com/jawakarsri/The-Web-Of-Crimes.git
 
 
-<!-- TechStack -->
-###  Tech Stack
+	2.	Navigate to the project directory:
 
-<details>
-  <summary>Client</summary>
-  <ul>
-        <li><a href="">React.js</a></li>
-        <li><a href="">Typescript</a></li>
-        <li><a href="">TailwindCSS</a></li>
-        <li><a href="">GSAP</a></li>
-
-  </ul>
-</details>
-
-<!-- Features -->
-### Features
-
-- Newspaper UI
-- Clean Animation
-- Shows crimes in a newspaper UI
+cd The-Web-Of-Crimes
 
 
-<!-- Getting Started -->
-##  Getting Started
+	3.	Install dependencies:
 
-<!-- Run Locally -->
-### Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/rinkitadhana/The-Daily-Crimes
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run dev
-```
+npm install
 
 
+	4.	Start the development server:
 
-<!-- Contributing -->
-## Contributing
-
-<a href="https://github.com/rinkitadhana/The-Daily-Crimes/contributors">
-  <img src="https://contrib.rocks/image?repo=rinkitadhana/The-Daily-Crimes" />
-</a>
+npm run dev
 
 
-Contributions are always welcome!
+	5.	Open your browser and visit:
 
+http://localhost:3000
 
+Contributing
 
-<!-- Contact -->
-##  Contact
+Contributions are always welcome! If you’d like to contribute, please fork the repository and submit a pull request. For major changes, open an issue to discuss what you’d like to change.
 
-Rinkit Adhana - [@damnGruz](https://twitter.com/damnGruz) - therinkit@gmail.com
+Contact
 
-Portfolio - [therinkit.online](https://therinkit.online)
+Feel free to reach out for collaboration or feedback:
+	•	📧 Email: jawaharsri2003@gmail.com
+	•	💼 LinkedIn: https://www.linkedin.com/in/jawakarsri/
 
+Let me know if you’d like further refinements!
