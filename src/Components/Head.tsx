@@ -17,7 +17,7 @@ const Head = () => {
       </div>
       <div className="flex flex-col gap-1 items-center pb-6">
         <div className=" text-8xl font-semibold font-OldLondon text-black/90">
-          Daily Crimes
+        Web of Crimes
         </div>
         <div className=" font-EditorialNew  ">
           Unfolding the Stories & Showcasing the Reality of this Country
