@@ -1,4 +1,3 @@
-
 <div align="center">
 
   <img src="https://github.com/user-attachments/assets/fb1ec5c0-f5ea-44e0-be85-8ea0b3db38bb" alt="logo" width="200" height="auto" />
@@ -29,7 +28,7 @@
 </p>
    
 <h4>
-    <a href="https://">View Demo</a>
+    <a href="https://thewebofcrimes.vercel.app/">View Demo</a>
   <span> · </span>
     <a href="https://github.com/jawakarsri/The-Web-Of-Crimes">Documentation</a>
   <span> · </span>
@@ -97,38 +96,48 @@ A Web of Crimes aims to uncover the growing trends of crime in India through an 
 
 ### Run Locally
 
-Clone the project:
+Clone the project
+
 ```bash
   git clone https://github.com/jawakarsri/The-Web-Of-Crimes.git
+```
 
-Go to the project directory:
+Go to the project directory
 
+```bash
   cd The-Web-Of-Crimes
+```
 
-Install dependencies:
+Install dependencies
 
+```bash
   npm install
+```
 
-Start the server:
+Start the server
 
+```bash
   npm run dev
+```
 
-Visit in your browser:
 
-http://localhost:3000
 
-Contributing
+<!-- Contributing -->
+## Contributing
 
 <a href="https://github.com/jawakarsri/The-Web-Of-Crimes/contributors">
   <img src="https://contrib.rocks/image?repo=jawakarsri/The-Web-Of-Crimes" />
 </a>
 
 
-Contributions are always welcome! Feel free to fork the repository and submit a pull request.
+Contributions are always welcome!
 
-Contact
 
-Feel free to reach out with feedback, suggestions, or collaboration opportunities:
-	•	📧 Email: jawaharsri2003@gmail.com
-	•	💼 LinkedIn: https://www.linkedin.com/in/jawakarsri/ 
+
+<!-- Contact -->
+##  Contact
+
+Jawakar Sri - [Linkedin](https://www.linkedin.com/in/jawakarsri/ ) - jawaharsri2003@gmail.com
+
+Portfolio - [Upgrading Updates . com](https://"Upgrading Updates")
 
