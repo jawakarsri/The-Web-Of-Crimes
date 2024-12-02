@@ -1,7 +1,7 @@
 <div align="center">
 
   <img src="https://github.com/user-attachments/assets/fb1ec5c0-f5ea-44e0-be85-8ea0b3db38bb" alt="logo" width="200" height="auto" />
-  <h1>A Web of Crimes</h1>
+  <h1>The Web of Crimes</h1>
   
   <p>
    A dynamic, newspaper-style web app shedding light on the rising crime rates in India. This project presents data-driven insights and sharp commentary on crucial issues, wrapped in an engaging and interactive design.
